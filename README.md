@@ -4,7 +4,7 @@
 Desafio para exercitar os conceitos de JavaScript.
 
 <p align = "center">
-  <img width= "800" src="assets/gif-resultado.gif">
+  <img width= "400" src="assets/gif-resultado.gif">
 </p>
 
 

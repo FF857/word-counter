@@ -3,6 +3,10 @@
 
 Desafio para exercitar os conceitos de JavaScript.
 
+<p align = "center">
+  <img width= "460" src="assets/gif-resultado.gif">
+</p>
+
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38"/>

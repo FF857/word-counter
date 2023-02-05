@@ -1,8 +1,5 @@
 # word-counter :atm:
 
-
-Desafio para exercitar os conceitos de JavaScript.
-
 <p align = "center">
   
   Desafio para exercitar os conceitos de JavaScript.

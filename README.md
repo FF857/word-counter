@@ -4,6 +4,9 @@
 Desafio para exercitar os conceitos de JavaScript.
 
 <p align = "center">
+  
+  Desafio para exercitar os conceitos de JavaScript.
+    
   <img width= "400" src="assets/gif-resultado.gif">
 </p>
 
